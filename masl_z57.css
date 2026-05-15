@@ -1,0 +1,18 @@
+*{
+    font-size: 36pt;
+    color:red;
+    background-color: silver;
+}
+p.klasa_nieuniwersalna_maslii{
+    font-size: 31pt;
+    background-color: green;
+}
+.klasa_uniwersalna_maslii{
+    /*20+11 = 31*/
+    font-size: 31pt;
+    color: green;
+
+
+}
+/*maksimmasliiskni-afk.github.io/zadanie_2-56_CSS/ 
+niech tu będzie*/
